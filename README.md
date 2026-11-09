@@ -10,9 +10,6 @@
 
 </div>
 
-This is the official implementation of the paper ["Improving Diffusion Models for Authentic Virtual Try-on in the Wild"](https://arxiv.org/abs/2403.05139).
-
-Star ⭐ us if you like it!
 
 ---
 
@@ -209,25 +206,12 @@ Thanks [Densepose](https://github.com/facebookresearch/DensePose) for human dens
 
 
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yisol/IDM-VTON&type=Date)](https://star-history.com/#yisol/IDM-VTON&Date)
 
 
 
-## Citation
-```
-@inproceedings{choi2024improving,
-  title={Improving diffusion models for authentic virtual try-on in the wild},
-  author={Choi, Yisol and Kwak, Sangkyung and Lee, Kyungmin and Choi, Hyungwon and Shin, Jinwoo},
-  booktitle={European Conference on Computer Vision},
-  year={2024},
-}
-```
 
 
 
-## License
-The codes and checkpoints in this repository are under the [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+
 
 
